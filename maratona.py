@@ -1,27 +1,27 @@
 #03) Questão
 
-# verde=int(input("Verde"))
-# ver=int(input("Vermelho"))
-# ama=int(input("Amarelo"))
+verde=int(input("Verde"))
+ver=int(input("Vermelho"))
+ama=int(input("Amarelo"))
 
 
-# if ver=="1" or "0":
-#     print(" Vermelho Está ligado")
+if ver=="1" or "0":
+    print(" Vermelho Está ligado")
 
-# elif ver=="0":
-#     print(" Vermelho está desligado")
+elif ver=="0":
+    print(" Vermelho está desligado")
 
-# elif ama=="1":
-#     print(" Amarelo está ligado")
+elif ama=="1":
+    print(" Amarelo está ligado")
 
-# elif ama=="0":
-#     print(" Amarelo está desligado")
+elif ama=="0":
+    print(" Amarelo está desligado")
 
-# elif verde=="1":
-#     print(" Verde está ligado")
+elif verde=="1":
+    print(" Verde está ligado")
 
-# elif verde=="0":
-#     print(" Verde está desligado")
+elif verde=="0":
+    print(" Verde está desligado")
 
 
 #07) Questão 

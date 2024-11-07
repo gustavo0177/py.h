@@ -22,9 +22,3 @@ while True:
                break
     elif cliente==0:
       break
-    
-  
-
- 
-      
-
