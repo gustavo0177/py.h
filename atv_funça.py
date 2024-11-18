@@ -1,11 +1,10 @@
 def soma(a,b,c):
-     
-     a = float(input("digite um numero"))
-     b = float(input("digite um numero"))
-     c = float(input("digite um numero"))
+     calculo = (a+b)*c
+     return calculo
 
-     x = a+b+c
-     x1 = x * c
+a = float(input("digite um numero"))
+b = float(input("digite um numero"))
+c = float(input("digite um numero"))
 
 
 

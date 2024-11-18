@@ -1,11 +1,11 @@
 def ocorrencia_palavra(texto):
     palavra =  texto.split()
     ocorrencia = {}
-    for palavra in palavra.lower()
+    for palavra in palavra.lower
         palavra = palavra.lower()
         
         if palavra in ocorrencia:
-            ocorrencia[palavra] =+
+            ocorrencia[palavra]=+
         else:
             ocorrencia[palavra] = 1
 

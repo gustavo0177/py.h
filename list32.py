@@ -1,4 +1,8 @@
 def raiz_quadrada(n):
-    return match.sqrt(n)
 
-print(raiz_quadrada(16))
+    if n < 0 :
+        return None
+    aproximacao = n / 2
+    for _ in range(20):
+        aproximacao = (aproximacao + n / aproximacao) / 2 
+    return aproximacao
